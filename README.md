@@ -31,3 +31,7 @@ In addition to calculating the optimal solution, the task also includes visualiz
 The final result of the optimization model shows that producing 40 units of Product A and 20 units of Product B yields the maximum profit of ₹2200 while satisfying all constraints. This result demonstrates how optimization techniques can help businesses make informed production decisions and efficiently utilize available resources.
 
 In conclusion, this task successfully demonstrates the application of optimization concepts to a real-world business problem using Python. It provides a strong foundation for understanding linear programming, constraint handling, and result visualization. The task highlights the importance of optimization in improving efficiency and profitability, making it a valuable learning experience during the CODTECH internship program.
+
+#OUTPUT
+
+<img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/d592af1c-311b-4a76-b388-f61c01ceaaa7" />
